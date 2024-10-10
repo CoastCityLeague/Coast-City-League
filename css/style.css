@@ -8,7 +8,7 @@
 
 .main-title {
   margin-top: 1rem;
-  margin-bottom: 3rem;
+  margin-bottom: 0.1rem;
 }
 .colorful-text {
   font-size: 2em;
@@ -67,6 +67,6 @@
   margin-right: 0.6rem;
 }
 .date {
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Georgia, "Times New Roman", Times, serif;
   font-size: 0.8rem;
 }
